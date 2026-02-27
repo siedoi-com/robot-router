@@ -11,7 +11,7 @@ module.exports = {
         chatId: process.env.MY_CHAT_ID,
     },
     thresholds: {
-        lowBattery: 20, // Відсоток, при якому слати алярм
-        tempAlert: 45,  // Температура перегріву
+        lowBattery: 20, // Precentage for low battery alert
+        tempAlert: 45,  // Temperature alert
     }
 };
