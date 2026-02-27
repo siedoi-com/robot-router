@@ -1,0 +1,17 @@
+{
+    "device_id": "sentinel-01",
+    "grid": {
+        "online": true,
+        "voltage": 231
+    },
+    "battery": {
+        "percent": 85,
+        "voltage": 3.9,
+        "is_charging": false
+    },
+    "env": {
+        "temp": 24.5,
+        "humidity": 40
+    },
+    "uptime": 0
+}
